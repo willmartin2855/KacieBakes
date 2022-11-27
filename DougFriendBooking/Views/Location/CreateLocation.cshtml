@@ -1,0 +1,21 @@
+﻿@page
+@model DougFriendBooking.ViewModels.LocationAddViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add Location</title>
+</head>
+
+<body>
+    <form method="post">
+        <label>Location Name: </label>
+        <input asp-for="@Model.Name" type="text" value="@Model.Name" />
+        <br />
+        <br />
+        <input id="SubmitAdd" type="submit" value="submit" />
+    </form>
+</body>
+</html>

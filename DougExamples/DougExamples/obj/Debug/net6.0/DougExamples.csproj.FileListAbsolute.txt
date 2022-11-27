@@ -1,0 +1,15 @@
+C:\Users\willm\source\repos\DougExamples\DougExamples\bin\Debug\net6.0\DougExamples.exe
+C:\Users\willm\source\repos\DougExamples\DougExamples\bin\Debug\net6.0\DougExamples.deps.json
+C:\Users\willm\source\repos\DougExamples\DougExamples\bin\Debug\net6.0\DougExamples.runtimeconfig.json
+C:\Users\willm\source\repos\DougExamples\DougExamples\bin\Debug\net6.0\DougExamples.dll
+C:\Users\willm\source\repos\DougExamples\DougExamples\bin\Debug\net6.0\DougExamples.pdb
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.csproj.AssemblyReference.cache
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.AssemblyInfoInputs.cache
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.AssemblyInfo.cs
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.csproj.CoreCompileInputs.cache
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.dll
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\refint\DougExamples.dll
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.pdb
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\DougExamples.genruntimeconfig.cache
+C:\Users\willm\source\repos\DougExamples\DougExamples\obj\Debug\net6.0\ref\DougExamples.dll
